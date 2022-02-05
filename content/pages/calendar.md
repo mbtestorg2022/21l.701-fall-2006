@@ -49,18 +49,227 @@ The "factoid" paper is factual, short, and succinct. You'll either have an assig
 
 The table below provides information on the weekly topics for the course. Descriptions of the class reports, response and factoid papers are in the [assignments]({{< baseurl >}}/pages/assignments) section.
 
-| WEEK # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | Introductions | &nbsp; |
-| 2 | Akhmatova Poems; Discussion and Biography  {{< br >}}  {{< br >}}Film: Aranovich, Semyon. [_The Anna Achmatova File_](http://imdb.com/title/tt0097743/)_._ 1989. | Class report A due  {{< br >}}  {{< br >}}Response A due  {{< br >}}  {{< br >}}Factoid A due |
-| 3 | Walt Whitman; T. S. Eliot; William Carlos Williams; Ezra Pound; Hilda Doolittle | Class report B due  {{< br >}}  {{< br >}}Response B due  {{< br >}}  {{< br >}}Factoid B due |
-| 4 | Wilfred Owen; W. B. Yeats; Siegfried Sassoon; W. H. Auden; Randall Jarrell | Class report C due  {{< br >}}  {{< br >}}Response C due  {{< br >}}  {{< br >}}Factoid C due |
-| 5 | Robert Lowell, _Life Studies_ | Class report D due  {{< br >}}  {{< br >}}Response D due  {{< br >}}  {{< br >}}Factoid D due |
-| 6 | Robert Lowell, _Life Studies_ (cont.) | Class report E due  {{< br >}}  {{< br >}}Response E due  {{< br >}}  {{< br >}}Factoid E due |
-| 7 | Sylvia Plath, _Ariel_ | Class report F due  {{< br >}}  {{< br >}}Response F due  {{< br >}}  {{< br >}}Factoid F due |
-| 8 | Pablo Neruda, _The Heights of Macchu Picchu_ | Class report G due  {{< br >}}  {{< br >}}Response G due  {{< br >}}  {{< br >}}Factoid G due |
-| 9 | Hilda Doolittle, _Trilogy_ | Class report H due  {{< br >}}  {{< br >}}Response H due  {{< br >}}  {{< br >}}Factoid H due |
-| 10 | Elizabeth Bishop, _Geography III_ | Class report I due  {{< br >}}  {{< br >}}Response I due  {{< br >}}  {{< br >}}Factoid I due |
-| 11 | Czeslaw Milosz, _New and Collected Poems Poems_: First Third (Poems in Poland in Early Exile in France) | Class report J due  {{< br >}}  {{< br >}}Response J due  {{< br >}}  {{< br >}}Factoid J due |
-| 12 | Czeslaw Milosz, _New and Collected Poems Poems_ : Second Third (Poems in Exile in France and Early in America) | Class report K due  {{< br >}}  {{< br >}}Response K due  {{< br >}}  {{< br >}}Factoid K due |
-| 13 | Czeslaw Milosz, _New and Collected Poems_: Final Third (Poems in America/Old Age) | Class report L due  {{< br >}}  {{< br >}}Response L due  {{< br >}}  {{< br >}}Factoid L due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Akhmatova Poems; Discussion and Biography  
+  
+Film: Aranovich, Semyon. [_The Anna Achmatova File_](http://imdb.com/title/tt0097743/)_._ 1989.
+{{< tdclose >}}
+{{< tdopen >}}
+Class report A due  
+  
+Response A due  
+  
+Factoid A due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Walt Whitman; T. S. Eliot; William Carlos Williams; Ezra Pound; Hilda Doolittle
+{{< tdclose >}}
+{{< tdopen >}}
+Class report B due  
+  
+Response B due  
+  
+Factoid B due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Wilfred Owen; W. B. Yeats; Siegfried Sassoon; W. H. Auden; Randall Jarrell
+{{< tdclose >}}
+{{< tdopen >}}
+Class report C due  
+  
+Response C due  
+  
+Factoid C due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Robert Lowell, _Life Studies_
+{{< tdclose >}}
+{{< tdopen >}}
+Class report D due  
+  
+Response D due  
+  
+Factoid D due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Robert Lowell, _Life Studies_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Class report E due  
+  
+Response E due  
+  
+Factoid E due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Sylvia Plath, _Ariel_
+{{< tdclose >}}
+{{< tdopen >}}
+Class report F due  
+  
+Response F due  
+  
+Factoid F due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Pablo Neruda, _The Heights of Macchu Picchu_
+{{< tdclose >}}
+{{< tdopen >}}
+Class report G due  
+  
+Response G due  
+  
+Factoid G due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Hilda Doolittle, _Trilogy_
+{{< tdclose >}}
+{{< tdopen >}}
+Class report H due  
+  
+Response H due  
+  
+Factoid H due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Elizabeth Bishop, _Geography III_
+{{< tdclose >}}
+{{< tdopen >}}
+Class report I due  
+  
+Response I due  
+  
+Factoid I due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Czeslaw Milosz, _New and Collected Poems Poems_: First Third (Poems in Poland in Early Exile in France)
+{{< tdclose >}}
+{{< tdopen >}}
+Class report J due  
+  
+Response J due  
+  
+Factoid J due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Czeslaw Milosz, _New and Collected Poems Poems_ : Second Third (Poems in Exile in France and Early in America)
+{{< tdclose >}}
+{{< tdopen >}}
+Class report K due  
+  
+Response K due  
+  
+Factoid K due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Czeslaw Milosz, _New and Collected Poems_: Final Third (Poems in America/Old Age)
+{{< tdclose >}}
+{{< tdopen >}}
+Class report L due  
+  
+Response L due  
+  
+Factoid L due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
